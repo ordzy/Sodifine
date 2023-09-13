@@ -1,4 +1,4 @@
-# Sodifine
+# [Sodifine](https://modrinth.com/modpack/sodifinefabric)
 Adds many optifine features, on fabric. Uses alternative mods to make an all in one experience.
 
 Uses mostly open-source mods.
