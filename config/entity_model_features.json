@@ -1,0 +1,12 @@
+{
+  "mathFunctionChoice": "JavaMath",
+  "printModelCreationInfoToLog": false,
+  "printAllMaths": false,
+  "renderModeChoice": "NORMAL",
+  "vanillaModelRenderMode": "Off",
+  "tryForceEmfModels": true,
+  "printUnknownModelsMode": "NONE",
+  "attemptPhysicsModPatch_2": "CUSTOM",
+  "attemptToCopyVanillaModelIntoMissingModelPart": false,
+  "textureOverrideMode2": "EMF_CODE"
+}
