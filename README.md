@@ -32,7 +32,7 @@ Has very few non-optifine mods but they don't interfere with gameplay. Just more
 - Clean F3
 - Cloth Config API
 - Continuity
-- ~~Cull Leaves~~
+- Cull Leaves
 - Debugify
 - Dynamic FPS
 - Enhanced Block Entities
@@ -41,7 +41,6 @@ Has very few non-optifine mods but they don't interfere with gameplay. Just more
 - Fabric Language Kotlin
 - FabricSkyboxes
 - Fast Chest
-- Fastload
 - FerriteCore
 - ImmediatelyFast
 - Iris Shaders
