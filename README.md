@@ -65,4 +65,6 @@ Has very few non-optifine mods but they don't interfere with gameplay. Just more
 - [ETF] Entity Texture Features
 </details>
 
-***This modpack may NOT be reposted to any mod rehosting websites. #StopModReposts***
+***This modpack may NOT be reposted to any mod rehosting websites. #StopModReposts***\
+
+<a href="https://www.buymeacoffee.com/ordzy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🌴&slug=ordzy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
